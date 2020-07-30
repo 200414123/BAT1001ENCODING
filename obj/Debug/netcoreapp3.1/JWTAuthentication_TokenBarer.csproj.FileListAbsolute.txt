@@ -1,0 +1,86 @@
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.AssemblyInfoInputs.cache
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.AssemblyInfo.cs
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csproj.CoreCompileInputs.cache
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.MvcApplicationPartsAssemblyInfo.cache
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.exe
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.RazorTargetAssemblyInfo.cache
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/staticwebassets/JWTAuthentication_TokenBarer.StaticWebAssets.Manifest.cache
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/staticwebassets/JWTAuthentication_TokenBarer.StaticWebAssets.xml
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.deps.json
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.runtimeconfig.json
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.runtimeconfig.dev.json
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.pdb
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csprojAssemblyReference.cache
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csproj.CopyComplete
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.dll
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.pdb
+D:/Nital/College/Summer 2020/Social Data Mining/BDAT1007_S20_Practical/Projects/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.genruntimeconfig.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.exe
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.deps.json
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.runtimeconfig.json
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.runtimeconfig.dev.json
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.pdb
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csprojAssemblyReference.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.AssemblyInfoInputs.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.AssemblyInfo.cs
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csproj.CoreCompileInputs.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.MvcApplicationPartsAssemblyInfo.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.RazorTargetAssemblyInfo.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csproj.CopyComplete
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/staticwebassets/JWTAuthentication_TokenBarer.StaticWebAssets.Manifest.cache
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/staticwebassets/JWTAuthentication_TokenBarer.StaticWebAssets.xml
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.dll
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.pdb
+D:/Nital/Summer 2020/BDAT 1007 - Social Data Mining/S20Practical/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.genruntimeconfig.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.deps.json
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.runtimeconfig.json
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.runtimeconfig.dev.json
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.pdb
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csprojAssemblyReference.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.AssemblyInfoInputs.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.AssemblyInfo.cs
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csproj.CoreCompileInputs.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.MvcApplicationPartsAssemblyInfo.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.RazorTargetAssemblyInfo.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.csproj.CopyComplete
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/staticwebassets/JWTAuthentication_TokenBarer.StaticWebAssets.Manifest.cache
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/staticwebassets/JWTAuthentication_TokenBarer.StaticWebAssets.xml
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.dll
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.pdb
+/Users/mohammed/Downloads/JWTAuthentication_TokenBarer/obj/Debug/netcoreapp3.1/JWTAuthentication_TokenBarer.genruntimeconfig.cache
